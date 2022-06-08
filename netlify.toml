@@ -1,0 +1,10 @@
+[build]
+command = "echo HELLO"
+publish = "public"
+
+[[edge_functions]]
+function = "list"
+path = "/*"
+
+[[plugins]]
+package = "/local-plugin"
