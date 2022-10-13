@@ -1,0 +1,21 @@
+{
+  "name": "edge-functions-project",
+  "private": true,
+  "scripts": {
+    "start": "netlify dev --offline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoboucas/edge-functions-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardoboucas/edge-functions-project/issues"
+  },
+  "homepage": "https://github.com/eduardoboucas/edge-functions-project#readme",
+  "devDependencies": {
+    "netlify-cli": "^12.0.9"
+  }
+}
